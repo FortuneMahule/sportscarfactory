@@ -1,0 +1,50 @@
+footer {
+    background-color: rgb(181, 131, 16);
+    width: 100%;
+    position: fixed;
+    bottom: 0.1px;
+    margin-top: auto;
+}
+
+.foot {
+    text-align: center;
+    font-family: cursive;
+    font-style: italic;
+    font-size: 10px;
+}
+
+header {
+    background-color: rgb(181, 131, 16);
+    width: 110%;
+    position: fixed;
+    top: 0.1px;
+}
+
+.home {
+    position: relative;
+    left: 1400px;
+    list-style: none;
+}
+
+.mboza {
+    font-family: cursive;
+    font-style: italic;
+    position: relative;
+    left: 670px;
+}
+
+body {
+    position: relative;
+    top: 150px;
+    padding-bottom: 50px; 
+    background-image: url("./contactsbackround.jpg");  
+}
+
+.con {
+    font-family: cursive;
+    font-style: italic;
+    font-size: 20px;
+    text-align: center;
+    margin: 20px;
+}
+

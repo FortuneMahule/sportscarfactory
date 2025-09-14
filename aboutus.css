@@ -1,0 +1,49 @@
+header {
+    background-color: rgb(181, 131, 16);
+    width: 110%;
+    position: fixed;
+    top: 0.1px;
+}
+
+body {
+    position: relative;
+    top: 150px;
+    padding-bottom: 50px;
+}
+
+h1 {
+    font-family: cursive;
+    font-style: italic;
+    position: relative;
+    left: 670px;
+}
+
+.home {
+    position:relative;
+    left: 1400px;
+    list-style-type: none;
+}
+
+#staff {
+    list-style-type: none;
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+}
+
+footer {
+    background-color: rgb(181, 131, 16);
+    width: 100%;
+    position: fixed;
+    bottom: 0.1px;
+    margin-top: auto;
+}
+
+.foot {
+    text-align: center;
+    font-family: cursive;
+    font-style: italic;
+    font-size: 10px;
+}

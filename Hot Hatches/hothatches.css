@@ -1,0 +1,44 @@
+.cars {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+header {
+    background-color: rgb(181, 131, 16);
+    width: 110%;
+    position: fixed;
+    top: 0.1px;
+}
+
+footer {
+    background-color: rgb(181, 131, 16);
+    width: 100%;
+    position: fixed;
+    bottom: 0.1px;
+}
+
+.foot {
+    text-align: center;
+    font-family: cursive;
+    font-style: italic;
+    font-size: 10px;
+}
+
+body {
+    position:relative;
+    top: 150px;
+}
+
+h1 {
+    position: relative;
+    left: 600px;
+    font-family: cursive;
+    font-style: italic;
+    font-size: 40px;
+}
+
+img {
+     border-radius: 10%;
+}
