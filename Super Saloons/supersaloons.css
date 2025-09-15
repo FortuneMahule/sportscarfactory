@@ -28,9 +28,8 @@ footer {
 
 body {
     position:relative;
-    top: 150px;
-    bottom: 250px;
-    overflow: scroll;
+    top: 80px;
+    bottom: 150px;
 }
 
 h1 {
@@ -45,5 +44,6 @@ img {
      border-radius: 10%;
 
 }
+
 
 
