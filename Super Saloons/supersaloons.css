@@ -10,7 +10,6 @@ header {
     width: 110%;
     position: fixed;
     top: 0.1px;
-    margin-bottom: 5px;
 }
 
 footer {
@@ -29,7 +28,7 @@ footer {
 
 body {
     position:relative;
-    top: 130px;
+    top: 120px;
 }
 
 h1 {
@@ -44,6 +43,7 @@ img {
      border-radius: 10%;
 
 }
+
 
 
 
