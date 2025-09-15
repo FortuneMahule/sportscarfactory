@@ -29,7 +29,7 @@ footer {
 body {
     position:relative;
     top: 150px;
-    bottom: 150px;
+    bottom: 250px;
 }
 
 h1 {
@@ -44,3 +44,4 @@ img {
      border-radius: 10%;
 
 }
+
