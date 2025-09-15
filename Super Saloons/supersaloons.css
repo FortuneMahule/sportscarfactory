@@ -30,6 +30,7 @@ body {
     position:relative;
     top: 150px;
     bottom: 250px;
+    overflow: scroll;
 }
 
 h1 {
@@ -44,4 +45,5 @@ img {
      border-radius: 10%;
 
 }
+
 
