@@ -61,3 +61,10 @@ footer {
     gap: 20px;
 }
 
+figcaption {
+    text-align: center;
+    font-family: cursive;
+    font-style: italic;
+}
+
+
